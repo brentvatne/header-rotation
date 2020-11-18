@@ -3,6 +3,7 @@
     "name": "strange-header-rotation",
     "slug": "strange-header-rotation",
     "version": "1.0.0",
+    "sdkVersion": "UNVERSIONED",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {

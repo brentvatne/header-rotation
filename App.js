@@ -4,6 +4,9 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { StatusBar } from "expo-status-bar";
 import * as ScreenOrientation from "expo-screen-orientation";
+import { enableScreens } from 'react-native-screens';
+
+enableScreens();
 
 function HomeScreen({ navigation }) {
   return (
